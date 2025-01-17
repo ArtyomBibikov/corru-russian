@@ -51,8 +51,8 @@ var css = `
 
 @font-face {
     font-family: 'barcode';
-    src: url('https://artyombibikov.github.io/corru-russian/Fonts/LibreBarcode128-Regular.woff2') format('woff2'),
-        url('https://artyombibikov.github.io/corru-russian/Fonts/LibreBarcode128-Regular.woff') format('woff');
+    src: url('https://artyombibikov.github.io/corru-russian/Fonts/LibreBarcode128-Regular-Russian.woff2') format('woff2'),
+        url('https://artyombibikov.github.io/corru-russian/Fonts/LibreBarcode128-Regular-Russian.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
