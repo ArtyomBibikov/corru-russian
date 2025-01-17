@@ -22,8 +22,8 @@ var css = `
 
 @font-face {
     font-family: 'spacemono';
-    src: url('https://cdn.jsdelivr.net/gh/ArtyomBibikov/corru-russian/Fonts/Victor%20Mono/WOFF2/VictorMono-Regular.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/ArtyomBibikov/corru-russian/Fonts/Victor%20Mono/WOFF/VictorMono-Regular.woff') format('woff');
+    src: url('https://artyombibikov.github.io/corru-russian/Fonts/Victor%20Mono/WOFF2/VictorMono-Regular.woff2') format('woff2'),
+        url('https://artyombibikov.github.io/corru-russian/Fonts/Victor%20Mono/WOFF/VictorMono-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -31,8 +31,8 @@ var css = `
 
 @font-face {
     font-family: 'spacemono';
-    src: url('https://cdn.jsdelivr.net/gh/ArtyomBibikov/corru-russian/Fonts/Victor%20Mono/WOFF2/VictorMono-Bold.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/ArtyomBibikov/corru-russian/Fonts/Victor%20Mono/WOFF/VictorMono-Bold.woff') format('woff');
+    src: url('https://artyombibikov.github.io/corru-russian/Fonts/Victor%20Mono/WOFF2/VictorMono-Bold.woff2') format('woff2'),
+        url('https://artyombibikov.github.io/corru-russian/Fonts/Victor%20Mono/WOFF/VictorMono-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -41,8 +41,8 @@ var css = `
 
 @font-face {
     font-family: 'barcodetext';
-    src: url('https://cdn.jsdelivr.net/gh/ArtyomBibikov/corru-russian/Fonts/LibreBarcode128Text-Regular-Russian.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/ArtyomBibikov/corru-russian/Fonts/LibreBarcode128Text-Regular-Russian.woff') format('woff');
+    src: url('https://artyombibikov.github.io/corru-russian/Fonts/LibreBarcode128Text-Regular-Russian.woff2') format('woff2'),
+        url('https://artyombibikov.github.io/corru-russian/Fonts/LibreBarcode128Text-Regular-Russian.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
