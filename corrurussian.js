@@ -49,6 +49,16 @@ var css = `
 }
 .barcodetext { font-family: barcodetext, sans-serif }
 
+@font-face {
+    font-family: 'barcode';
+    src: url('https://artyombibikov.github.io/corru-russian/Fonts/LibreBarcode128-Regular.woff2') format('woff2'),
+        url('https://artyombibikov.github.io/corru-russian/Fonts/LibreBarcode128-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.barcode { font-family: barcode, sans-serif }
+
 #meta-menu .moth-trigger:after { 
     content: "МТЛ"; 
     left: 0;
