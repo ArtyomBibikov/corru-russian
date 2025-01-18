@@ -548,10 +548,10 @@ what_corru
     moth
         интересное время, чтобы это спросить, но я тебя понимаю
         даже прочитав всю документацию, многие задаются этим вопросом только тогда, когда рассмотрят его вблизи
-        beyond the 'supercell superorganism' buzzword soup, what it really is in the big picture is still really unknown
-        i've read pretty much every transcript of every obesk interview ever and they don't ever seem to mention its origin or how they got their symbiosis with it
-        like, if the 'larval' obesk really do look almost exactly like us, and then they shift into corrucystic bodies, where does that put us?
-        idk you could go crazy thinking about this stuff long enough, no time for waxing philosophical right now though
+        кроме каши из терминов вроде 'суперклеточный организм', в общем плане никто толком об этом не знает
+        я прочитал практически все стенограммы каждого интервью с обеск, и они ни разу не упоминали его происхождения или как они достигли симбиоза с ним
+        типа, если 'личиночные' обеск реально выглядят почти прямо как мы, а потом они перемещаются в коррукистические тела, то что это значит для нас?
+        хз, если об этом слишком долго думать, то можно с ума сойти, но сейчас не время философствовать
     
     RESPONSES::self
         ясно<+>loop
