@@ -562,11 +562,11 @@ what_corrucyst
         Что такое коррукисты?
     
     moth
-        it's a pretty general term, 'corrucyst' and 'corrucystic' are catch-alls for most obesk technology
-        because the organism tends to ball up and form a hard outer wall like the corrucyst you're connected to
-        it's why corrucystic things are usually spherical, but that's not always the case
-        like with how they use a similar process to form the bodies the qou obesk use
-        if you mean what spherical corrucysts are, they tend to be storage or computational devices
+        это довольно общий термин, 'коррукиста' и 'коррукистический' универсально применимы ко всем технологиям обеск
+        потому что организм обычно скатывается в шар и образует твёрдую оболочку, прямо как у коррукисты, к которой ты присоединён
+        поэтому всё коррукистическое обычно принимает сферический вид, хотя это не всегда так
+        например такой же процесс происходит при формировании тел коу обеск
+        если речь про сферические коррукисты, то они обычно используются для хранения или обработки данных
     
     RESPONSES::self
         ясно<+>loop
