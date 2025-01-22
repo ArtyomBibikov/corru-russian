@@ -525,17 +525,17 @@ what_veilk
 
 what_mindcores
     self
-        are all obesk actually these weird little spider things?
+        неужели все обеск выглядят как эти пауки?
 
     moth
-        no, just the qou
-        the 'larval' obesk go through some procedure that makes them into those
-        we got a few descriptions of it before they pulled back
-        but they're all really abstract, like...
-        "climbing through their receptors into a mindcore", leaving an "empty vessel" to its "peaceful death"
-        nothing scientific, but they always emphasized it not just being a copy
-        then they build themselves bodies out of corru to drive around
-        that's what those qou-bodies are
+        нет, только коу
+        "личиночные" обеск проходят какую-то процедуру, в которой они превращаются вот в это
+        до их ухода мы раздобыли несколько описаний
+        но они были довольно асбтрактные, типа...
+        "проходить через рецептор в нейроядро", оставлять "мёртвый сосуд" на "мирную смерть"
+        ничего научного, но они всегда делали акцент на том, что это не просто копирование
+        они затем из корру строят тела, в которых могут передвигаться
+        вот для чего эти корру-тела
 
     RESPONSES::self
         ладно<+>loop
@@ -577,13 +577,13 @@ what_thecall
         Что такое 'зов'?
     
     moth
-        it's a pretty important part of human-obesk history that gets overlooked a lot
-        supposedly the reason they were able to find earth was because something was sending a signal their tech picked up
-        they were trying to figure out what it was for a little while after first contact and were pretty verbal about it
-        and then they just never talked about it again after akizet's team went missing
-        ...and then all that other shit happened
-        that really is sort of where it all went wrong
-        maybe this corrucyst will finally shed some light on what happened
+        это довольно важная часть истории людей и обеск, которую часто опускают
+        предположительно, они смогли найти землю потому что что-то издавало сигнал, который они поймали
+        вскоре после первого контакта, они пытались понять природу сигнала, и очень много это обсуждали
+        а потом все разговоры прекратились после пропажи команды акизет
+        ... а потом случилось всё остальное дерьмо
+        в принципе вот где всё пошло не так
+        может эта коррукиста наконец-то всё прояснит
     
     RESPONSES::self
         ясно<+>loop
@@ -591,17 +591,17 @@ what_thecall
 
 what_smile
     self
-        What is that smiling face that I keep seeing?
+        Что это за улыбающееся лицо, которое я постоянно вижу?
     
     moth
-        i'm not seeing anything in the logs here, unless you mean the little assistant dude in the hub
+        у меня в логах ничего нет, если только речь не о маленьком помощнике в центре
 
     self
-        I think it was what helped me in
+        Я думаю оно помогло мне войти
 
     moth
-        oh, so it looks like a smiling face to you?
-        maybe my malware theory has some weight after all
+        а, то есть для тебя оно выглядит как улыбающееся лицо?
+        может в моей теории о вирусе всё-таки есть смысл
         in short, i still have no idea what that rogue friend of ours is
         but i'm pretty sure it's calling itself 'velzie', going off what the pilotcyst said
             SHOWIF::[['dullvessel__fixed-start']]
